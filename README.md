@@ -2,6 +2,8 @@
 
 A fully utilized application to help you focus on productivity.
 
+![Workflow](https://github.com/user-attachments/assets/07eda9f2-3a43-4186-882f-bf3b05f79fec)
+
 # Downloads
 
 | Operating System | Download |
